@@ -24,6 +24,7 @@ module.exports = {
       'ultramarine': '#1A21BC',
       'slategray': '#57595F',
       'lightkblue': '#F6FAFF',
+      'grey500': '#ECECEC',
       'red': '#B40000',
       'gold': '#FFB900',
       'darkgray': 'rgba(54, 54, 54, 0.75)',
